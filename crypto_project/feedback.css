@@ -16,7 +16,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #e21f1f;
+    color: #efe010;
 }
 
 p {
@@ -29,7 +29,7 @@ form {
 }
 
 fieldset {
-    border: 1px solid #c00b0b;
+    border: 1px solid #e9ed0b;
     padding: 15px;
     margin-bottom: 20px;
     border-radius: 5px;
@@ -70,7 +70,7 @@ button {
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: #f40505;
+    background-color: #edbf0a;
     color: #ffffff;
     border: none;
     border-radius: 5px;
